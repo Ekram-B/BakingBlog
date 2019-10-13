@@ -1,0 +1,28 @@
+{
+  "name": "bakingblog",
+  "version": "1.0.0",
+  "description": "Codebase for pre-public version of my baking blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekram-B/BakingBlog.git"
+  },
+  "author": "Ekram Bhuiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekram-B/BakingBlog/issues"
+  },
+  "homepage": "https://github.com/Ekram-B/BakingBlog#readme",
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
